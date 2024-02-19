@@ -1,19 +1,28 @@
+
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
 p{
     text-align: center;
             ;
 }
 
-h1{
+.tituloCentralizado{
     text-align: center;
-    height: 150px;
+    /* height: 150px;
     border: 10px solid #000000 ;
     padding: 20px;
     margin: 40px;
-    
+     */
 }
-body{
+
+.principal{
     background: #cccccc;
+    padding: 20px;
 }
+
+
 
 em strong{
     color: red;
@@ -26,4 +35,25 @@ em strong{
 #banner{
     width: 100%;
 
+}
+
+.diferenciales{
+ background-color: #FFFFFF;   
+ padding: 30px;
+}
+
+
+.items{
+    font-style: italic;    
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
 }
